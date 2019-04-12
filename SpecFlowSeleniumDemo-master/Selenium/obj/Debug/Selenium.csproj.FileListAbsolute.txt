@@ -1,0 +1,31 @@
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\Selenium.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\Selenium.pdb
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.xml
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.dll
+C:\Projects\SpoQualityDemo\SpecFlowSelenium\Selenium\obj\Debug\Selenium.pdb
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\Selenium.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\Selenium.pdb
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.xml
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.dll
+C:\Projects\SpoQuality\SpecFlowSeleniumDemo\Selenium\obj\Debug\Selenium.pdb
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\Selenium.dll
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\Selenium.pdb
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\WebDriver.dll
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\WebDriver.Support.dll
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\WebDriver.xml
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\bin\Debug\WebDriver.Support.xml
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\obj\Debug\Selenium.dll
+\\DT-PAM\User_Docs\adam.blower\Selenium Sample Projects\SpecFlowSeleniumDemo-master\Selenium\obj\Debug\Selenium.pdb
